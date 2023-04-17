@@ -6,7 +6,7 @@ package javaapplication13;
 
 /**
  *
- * @author Elieth
+ * @author Oreki
  */
 public class planetas {
        
